@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Autocalls",
+  "name": "Nicecall",
   "logo": {
     "dark": "/resources/logo/dark.png",
     "light": "/resources/logo/light.png"
@@ -24,14 +24,14 @@
   },
   "topbarLinks": [{
     "name": "Home",
-    "url": "https://autocalls.ai"
+    "url": "https://nicecall.ai"
   }, {
     "name": "Support",
-    "url": "https://autocalls.ai/contact"
+    "url": "https://nicecall.ai/contact"
   }],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://app.autocalls.ai"
+    "url": "https://app.nicecall.ai"
   },
   "anchors": [{
     "name": "No-Code Automation",
@@ -372,10 +372,9 @@
     }
   ],
   "footerSocials": {
-    "linkedin": "https://www.linkedin.com/company/autocalls-ai"
   },
   "api": {
-    "baseUrl": "https://app.autocalls.ai/api/",
+    "baseUrl": "https://app.nicecall.ai/api/",
     "auth": {
       "method": "bearer"
     }
